@@ -17,3 +17,4 @@ collection of repos and tools related to the FusionFall MMO by Cartoon Network. 
 
 # Visualizers
 - [OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap)
+- [Dex-Labs-Leaderboards](https://github.com/hichemfantar/dex-labs-leaderboards)

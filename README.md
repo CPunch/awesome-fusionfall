@@ -9,6 +9,7 @@ collection of repos and tools related to the FusionFall MMO by Cartoon Network. 
 
 # Tools
 - [OpenFusionRarify](https://github.com/FinnHornhoover/OpenFusionRarify)
+- [OFDropEditor](https://github.com/FinnHornhoover/OFDropEditor)
 
 # Visualizers
 - [OpenFusionMap](https://github.com/OpenFusionProject/OpenFusionMap)
